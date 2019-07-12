@@ -12,7 +12,7 @@ The Goal at the end is to retrieve the information inside the photo.
 
 The final goal is to create a way to store information hidden in a photo and keep it even if the photo is screenshot or cropped.
 
-Checkpoints
+Milestones:
 - [ ] Create the template;
 - [ ] Insert the template inside a photo;
 - [ ] Extract the template from the new image;
