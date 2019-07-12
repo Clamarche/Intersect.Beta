@@ -21,3 +21,6 @@ The final goal is to create a way to store information hidden in a photo and kee
 - [ ] Extract the information from the picture;
 - [ ] Modify the service to be able to treat a picture that have been modified (Create a decrytor);
 - [ ] Extract the information with the use of decryptor.
+
+# Idea :
+* By creating a histogram of oriented gradient, we can create an image resilient to tone modification.
